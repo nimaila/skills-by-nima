@@ -1,14 +1,6 @@
 ---
 name: aminkvitto-renamer
-description: >
-  Renames invoice PDF files using a structured naming convention:
-  AB-YYMM-F#-KR#.pdf — where AB is a 2-letter supplier code, YYMM is
-  year+month, F# is the invoice number, and KR# is the total SEK amount.
-  Use this skill whenever the user wants to rename invoice images or PDFs,
-  or says "continue renaming", "process invoices", "next batch", or
-  "rename invoices". At the start of each session, ask the user which
-  folder to use. Always read the rename_log.md first to resume from the
-  correct file.
+description: "Renames scanned invoice PDFs using a consistent structured filename."
 ---
 
 # Invoice Renamer
