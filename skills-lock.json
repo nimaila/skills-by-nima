@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "n8n-mcp-tools-expert": {
+      "source": "czlonkowski/n8n-skills",
+      "sourceType": "github",
+      "computedHash": "eba19c1fa6bacd0609b99a78d5883cb06a89b4c5442cb24c5482bd0513a0ee33"
+    },
+    "n8n-node-configuration": {
+      "source": "czlonkowski/n8n-skills",
+      "sourceType": "github",
+      "computedHash": "ae9730a7984997d5cb97ea6d797e916fbe6d4321390f6a48eb8076e252ac72ac"
+    },
+    "n8n-workflow-patterns": {
+      "source": "czlonkowski/n8n-skills",
+      "sourceType": "github",
+      "computedHash": "ca96b2c12c2712365e4e95ae07d7dac464d7810cf9781de542e57ded2a88c927"
+    }
+  }
+}
