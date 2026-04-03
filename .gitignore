@@ -32,7 +32,6 @@ SESSION_LOG_*.md
 # Temporary files
 *.tmp
 *.lock
-ziySNRUz
 
 # Dependencies
 node_modules/
