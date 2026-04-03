@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+Icon
+Icon?
+Icon\r
+._*
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+
+# Session logs (tool-specific, not tracked)
+SESSION_LOG_*.md
+
+# Tool-generated directories
+.agents/
+.claude/
+.codex/
+.gemini/
+
+# Temporary files
+*.tmp
+*.lock
+ziySNRUz
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# OS-specific
+Thumbs.db
